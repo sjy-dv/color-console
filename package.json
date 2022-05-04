@@ -1,6 +1,6 @@
 {
-  "name": "@colorful/loggers",
-  "version": "1.0.1",
+  "name": "@seojaeyoung/color-loggers",
+  "version": "1.0.0",
   "description": "colorful console.log for logging",
   "main": "index.js",
   "scripts": {
